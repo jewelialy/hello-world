@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-First GitHub Project
+My first GitHub Project
+
+I just watched Masterchef.
